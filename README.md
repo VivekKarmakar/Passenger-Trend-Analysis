@@ -24,6 +24,7 @@ Utilizing Power BI, we will leverage various charts, graphs, and visuals to pres
 ## Dashboard
 The dashboard will provide an intuitive and comprehensive overview of passenger travel trends, allowing users to explore the data dynamically and gain valuable insights into the trends and patterns. The visuals will be carefully crafted to deliver a compelling narrative of the passenger travel landscape.
 
+https://app.powerbi.com/links/2E-kSVSH7l?ctid=d4963ce2-af94-4122-95a9-644e8b01624d&pbi_source=linkShare
 
 By effectively combining data analysis, DAX calculations, and visually appealing charts, this project aims to provide a robust understanding of passenger travel trends and empower decision-makers in the travel industry with actionable insights.
 
